@@ -1,0 +1,1 @@
+ncp_repl(0x0203A844, "MOVNE R4, #0xA");
